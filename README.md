@@ -1,5 +1,7 @@
 # hackathon_noel
 
+You can see the application here: https://gestion-des-dechets-nantais.netlify.com/
+
 ## Project setup
 ```
 npm install
