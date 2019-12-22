@@ -7,7 +7,7 @@
     </div>
     <div v-else>
       <div class="center-text">
-        <p class="text">Bienvenue sur l'application <i><b>Un pied dans la merde</b></i>!<br> Cette application te permet de géolocaliser les déchets que tu croises dans les rues de la ville de <b>Nantes.</b><br>L'envoi de ton formulaire génère automatiquement un Tweet qui permettra à la <b>#VilledeNantes</b> d'intervenir.</p>
+        <p class="text">Bienvenue sur l'application <i><b>"Gestion des déchets nantais"</b></i>!<br> Cette application te permet de géolocaliser les déchets que tu croises dans les rues de la ville de <b>Nantes.</b><br>L'envoi de ton formulaire génère automatiquement un Tweet qui permettra à la <b>#VilledeNantes</b> d'intervenir.</p>
       </div>
       
       <div class="Cards">

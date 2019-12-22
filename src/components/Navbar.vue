@@ -2,7 +2,7 @@
  <div class="navbar_style">
   <b-navbar variant="faded" type="light">
     <div><img src="@/assets/running-shoes.png" alt="shoes" height="100" width="100"/></div>
-    <div><b-navbar-brand tag="h1" class="title mb-3">Un pied <br>dans la merde</b-navbar-brand></div>
+    <div><b-navbar-brand tag="h1" class="title mb-3">Gestion des déchets<br>nantais</b-navbar-brand></div>
     <div> <a href="http://twitter.com/DesNantais"><img src="@/assets/twitter_logo.png" alt="twitter_logo" heigt="100" width="100"></a></div>
   </b-navbar>
 </div>
