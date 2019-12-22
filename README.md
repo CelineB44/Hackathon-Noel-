@@ -1,6 +1,6 @@
 # hackathon_noel
 
-You can see the application here: https://gestion-des-dechets-nantais.netlify.com/
+You can see the application here: https://gestion-dechets-nantes.netlify.com/
 
 ## Project setup
 ```
